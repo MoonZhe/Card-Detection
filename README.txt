@@ -1,3 +1,7 @@
+Codes derived from with changes made:
+https://github.com/arnabdotorg/Playing-Card-Recognition
+
+
 ###############################################################################
 #README
 ############################################################################### 
